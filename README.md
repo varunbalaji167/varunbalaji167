@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Varun Marneni
+- 👋 Hi, I’m @Varun Balaji Marneni
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Full Stack 
 - 💞️ I’m looking to collaborate on ...
