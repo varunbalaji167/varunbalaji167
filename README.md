@@ -32,25 +32,6 @@ I am currently a student at **IIT Indore**, specializing in **Computer Science E
 
 ---
 
-## Projects
-
-### 1. Health Monitoring System
-This project is a full-stack application for real-time monitoring of patient vitals using a bedside tablet. The project consists of the following parts:
-- **Frontend**: Built with React, Vite, and Tailwind CSS.
-- **Backend**: Developed using Django and Django REST Framework.
-- **ML Model Integration**: Flask is used to integrate and serve machine learning models.
-[View Project](https://github.com/varunbalaji167/Siddhi_health_app_monitoring.git)
-
-### 2. Live Weather
-This Live Weather Website is a simple web application that provides current weather information for a given city name.
-[Use it](https://varunbalaji167.github.io/Live-Weather/)
-
-### 3. IoT App
-This project is currently under development.
-[View Project](https://github.com/varunbalaji167/iotapp.git)
-
----
-
 ## Contact Me
 
 Feel free to reach out to me via email or connect with me on social media:
