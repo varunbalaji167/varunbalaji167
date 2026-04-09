@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" alt="Neural Circuit Data Flow" width="700" />
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" />
 </div>
 
 <h1 align="center">
