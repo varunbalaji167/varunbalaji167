@@ -1,117 +1,89 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" />
-</div>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Varun+Balaji;Full-Stack+Engineer;AI+Agent+Architect;Building+Systems+That+Think" alt="Typing SVG" />
-</h1>
-
-<h3 align="center">
-  Where Cognitive Science Meets Code: Building Intuitive AI Systems
-</h3>
-
 <p align="center">
-  <a href="https://github.com/varunbalaji167">
-    <img src="https://komarev.com/ghpvc/?username=varunbalaji167&label=Profile%20Views&color=0e75b6&style=flat-square" alt="varunbalaji167 profile views" />
-  </a>
+  <img src="./assets/header.svg" width="100%" alt="Varun Balaji, full-stack engineer and AI agent architect" />
 </p>
 
----
-
-## About
-
-- **B.Tech Computer Science & Engineering** @ IIT Indore (2023–2027)
-- **The Human-Code Interface:** Blending Computer Science with Cognitive Psychology to build AI agents that feel intuitive and systems that understand user intent.
-- **Current Focus:** Autonomous AI Agents, LLM Orchestration, and RAG pipelines.
-- **Architecture:** Expertise in WebSockets, MQTT, and real-time full-stack systems.
-- **Machine Learning:** Training and deploying Deep Learning models (Keras/TF) for predictive healthcare.
-- **Infrastructure:** Shipping production-ready containers via Docker and managing cloud deployments.
-- **Contact:** [varunbalaji917@gmail.com](mailto:varunbalaji917@gmail.com)
-
----
-
-## Connect
-
 <p align="center">
-  <a href="https://linkedin.com/in/marneni-varun-balaji-9301a22b2" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45" width="60" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/varunbalaji167" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="45" width="60" alt="GitHub" />
-  </a>
-  <a href="https://www.instagram.com/mvb.2107/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="45" width="60" alt="Instagram" />
-  </a>
-  <a href="https://leetcode.com/u/Alonewolf167/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="45" width="60" alt="LeetCode" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=900&color=00F0FF&center=true&vCenter=true&width=640&lines=Autonomous+AI+agents+%2B+LLM+orchestration;RAG+pipelines+that+actually+retrieve;Real-time+systems+on+WebSockets+%26+MQTT;Deep+learning+for+predictive+healthcare" alt="Rotating focus areas" />
 </p>
 
----
-
-## Tech Stack
-
-### Frontend & Design
-
 <p align="center">
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60" height="60" alt="React"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.simpleicons.org/nextdotjs" width="60" height="60" alt="Next.js"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60" height="60" alt="Tailwind CSS"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="60" height="60" alt="Figma"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript"/></a>
-  <a href="https://vitejs.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" width="60" height="60" alt="Vite"/></a>
+  <a href="https://linkedin.com/in/marneni-varun-balaji-9301a22b2"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn" /></a>
+  <a href="mailto:varunbalaji917@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF2BD6" alt="Email" /></a>
+  <a href="https://leetcode.com/u/Alonewolf167/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00F0FF" alt="LeetCode" /></a>
+  <a href="https://www.instagram.com/mvb.2107/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FF2BD6" alt="Instagram" /></a>
+  <img src="https://komarev.com/ghpvc/?username=varunbalaji167&label=Profile%20views&color=7C3AED&style=for-the-badge" alt="Profile views" />
 </p>
 
-### Backend & Systems
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-<p align="center">
-  <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60" alt="Node.js"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="60" height="60" alt="Django"/></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="60" height="60" alt="PHP"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" alt="Python"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.simpleicons.org/flask/FFFFFF" width="60" height="60" alt="Flask"/></a>
+## About me
+
+I sit where computer science meets cognitive psychology: I build AI agents that feel intuitive because they're designed around how people actually think.
+
+```js
+const varun = {
+  education:  "B.Tech CSE @ IIT Indore (2023 – 2027)",
+  building:   ["Autonomous AI agents", "LLM orchestration", "RAG pipelines"],
+  realtime:   ["WebSockets", "MQTT", "Full-stack systems"],
+  ml:         "Keras / TensorFlow models for predictive healthcare",
+  shipping:   ["Docker containers", "Cloud deployments"],
+  edge:       "CS + cognitive psychology = AI that understands intent",
+  reachMe:    "varunbalaji917@gmail.com",
+};
+```
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## Tech stack
+
+**Frontend and design**
+
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,vite,figma&theme=dark" alt="React, Next.js, Tailwind, JavaScript, Vite, Figma" /></p>
+
+**Backend and systems**
+
+<p><img src="https://skillicons.dev/icons?i=cpp,py,nodejs,django,flask,php&theme=dark" alt="C++, Python, Node.js, Django, Flask, PHP" /></p>
+
+**Databases and ORM**
+
+<p><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,firebase&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Prisma, Firebase" /></p>
+
+**AI, ML and cloud**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,gcp&theme=dark" alt="TensorFlow, OpenCV, Google Cloud" />
+  <br />
+  <img src="https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=langchain&logoColor=00F0FF" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Hugging_Face-0D1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Google_AI_Studio-0D1117?style=for-the-badge&logo=google&logoColor=FF2BD6" alt="Google AI Studio" />
 </p>
 
-### Database & ORM
+**DevOps and deployment**
 
-<p align="center">
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="60" height="60" alt="PostgreSQL"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" alt="MySQL"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60" alt="MongoDB"/></a>
-  <a href="https://www.prisma.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" width="60" height="60" alt="Prisma"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="60" height="60" alt="Firebase"/></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,vercel,git&theme=dark" alt="Docker, Vercel, Git" />
+  <br />
+  <img src="https://img.shields.io/badge/Render-0D1117?style=for-the-badge&logo=render&logoColor=46E3B7" alt="Render" />
 </p>
 
-### AI, ML & Cloud
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## GitHub activity
 
 <p align="center">
-  <a href="https://www.langchain.com/" target="_blank"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="60" height="60" alt="LangChain"/></a>
-  <a href="https://cloud.google.com/ai-studio" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="60" height="60" alt="Google AI Studio"/></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="60" height="60" alt="TensorFlow"/></a>
-  <a href="https://huggingface.co/" target="_blank"><img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" width="60" height="60" alt="HuggingFace"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="60" height="60" alt="OpenCV"/></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varunbalaji167&bg_color=0D1117&color=00F0FF&line=FF2BD6&point=00F0FF&area=true&area_color=FF2BD6&hide_border=true" width="100%" alt="Contribution activity graph" />
 </p>
-
-### DevOps & Deployment
 
 <p align="center">
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="60" height="60" alt="Docker"/></a>
-  <a href="https://render.com/" target="_blank"><img src="https://cdn.simpleicons.org/render/46E3B7" width="60" height="60" alt="Render"/></a>
-  <a href="https://vercel.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="60" height="60" alt="Vercel"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" height="60" alt="Git"/></a>
+  <img src="https://streak-stats.demolab.com/?user=varunbalaji167&background=0D1117&ring=FF2BD6&fire=FF2BD6&currStreakLabel=00F0FF&sideLabels=00F0FF&currStreakNum=E6F1FF&sideNums=E6F1FF&dates=8B949E&stroke=30363D&hide_border=true" width="100%" alt="Contribution streak" />
 </p>
 
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/varunbalaji167/varunbalaji167/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/varunbalaji167/varunbalaji167/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/varunbalaji167/varunbalaji167/output/github-snake-dark.svg" width="100%" alt="Snake eating my contribution graph" />
+  </picture>
+</p>
 
-## GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varunbalaji167&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Varun's GitHub Activity Graph" width="100%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varunbalaji167&theme=vision-friendly-dark" alt="varunbalaji167 streak" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7C3AED,100:FF2BD6&height=110&section=footer" width="100%" alt="" />
