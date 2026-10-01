@@ -39,13 +39,13 @@
 **Backend and distributed systems**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,py,ts,nodejs,cpp,fastapi,django,flask,laravel&theme=dark" alt="Go, Python, TypeScript, Node.js, C++, FastAPI, Django, Flask, Laravel" />
+  <img src="https://skillicons.dev/icons?i=cpp,py,ts,nodejs,fastapi,django,flask,laravel&theme=dark" alt="C++, Python, TypeScript, Node.js, FastAPI, Django, Flask, Laravel" />
   <br />
   <img src="https://skillicons.dev/icons?i=kafka,redis&theme=dark" alt="Kafka, Redis" />
   <br />
   <img src="https://img.shields.io/badge/MQTT-0D1117?style=for-the-badge&logo=mqtt&logoColor=FF2BD6" alt="MQTT" />
   <img src="https://img.shields.io/badge/WebSockets-0D1117?style=for-the-badge&logo=socketdotio&logoColor=00F0FF" alt="WebSockets" />
-  <img src="https://img.shields.io/badge/Redis_Pub%2FSub-0D1117?style=for-the-badge&logo=redis&logoColor=FF2BD6" alt="Redis Pub%2FSub" />
+  <img src="https://img.shields.io/badge/Redis_Pub%2FSub-0D1117?style=for-the-badge&logo=redis&logoColor=FF2BD6" alt="Redis Pub/Sub" />
 </p>
 
 **Agentic AI**
@@ -67,7 +67,7 @@
 
 <p><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,vite,figma&theme=dark" alt="React, Next.js, Tailwind, JavaScript, Vite, Figma" /></p>
 
-**DevOps and testing**
+**DevOps and deployment**
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,githubactions,git,vercel&theme=dark" alt="Docker, GitHub Actions, Git, Vercel" />
@@ -85,11 +85,11 @@
 ## GitHub activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/varunbalaji167/varunbalaji167/output/activity-graph.svg" width="100%" alt="Contribution activity graph" />
+  <img src="https://raw.githubusercontent.com/varunbalaji167/varunbalaji167/output/activity-graph.svg?v=2" width="100%" alt="Contribution activity graph" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/varunbalaji167/varunbalaji167/output/streak.svg" width="100%" alt="Contribution streak" />
+  <img src="https://raw.githubusercontent.com/varunbalaji167/varunbalaji167/output/streak.svg?v=2" width="100%" alt="Contribution streak" />
 </p>
 
 <p align="center">
