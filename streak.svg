@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200" role="img" aria-label="Current streak 0 days, longest 6 days, 337 contributions in the past year">
+<defs><filter id="g" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<style>.n{font:700 40px 'Segoe UI','Helvetica Neue',Arial,sans-serif;fill:#E6F1FF}.l{font:600 17px 'Segoe UI','Helvetica Neue',Arial,sans-serif}.d{font:400 13px 'Segoe UI','Helvetica Neue',Arial,sans-serif;fill:#8B949E}</style></defs>
+<rect width="1200" height="200" rx="10" fill="#0D1117"/>
+<line x1="400" y1="40" x2="400" y2="160" stroke="#30363D"/><line x1="800" y1="40" x2="800" y2="160" stroke="#30363D"/>
+<text x="200" y="98" text-anchor="middle" class="n">337</text><text x="200" y="138" text-anchor="middle" class="l" fill="#00F0FF">Contributions, past year</text><text x="200" y="164" text-anchor="middle" class="d">Oct 5, 2025 – Oct 10, 2026</text>
+<circle cx="600" cy="84" r="46" fill="none" stroke="#FF2BD6" stroke-width="4" filter="url(#g)"/>
+<text x="600" y="98" text-anchor="middle" class="n">0</text>
+<text x="600" y="160" text-anchor="middle" class="l" fill="#FF2BD6">Current streak</text>
+<text x="600" y="184" text-anchor="middle" class="d">Start one today</text>
+<text x="1000" y="98" text-anchor="middle" class="n">6</text><text x="1000" y="138" text-anchor="middle" class="l" fill="#00F0FF">Longest streak</text><text x="1000" y="164" text-anchor="middle" class="d">Jun 22, 2026 – Jun 27, 2026</text>
+</svg>
