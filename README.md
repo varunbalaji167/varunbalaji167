@@ -28,7 +28,7 @@
   <a href="https://github.com/varunbalaji167/RepoSage"><img src="./assets/card-reposage.svg" width="100%" alt="RepoSage: LangGraph RAG system for codebase Q&A with call-graph risk scoring" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/varunbalaji167/FRS_Laravel"><img src="./assets/card-recruitment.svg" width="49%" alt="Faculty Recruitment System: live Laravel and React app on IIT Indore servers" /></a>
+  <a href="https://github.com/varunbalaji167/MeeronBi"><img src="./assets/card-meeronbi.svg" width="49%" alt="MeeronBi: multi-tenant antenatal care data and analytics platform on Next.js" /></a>
   <a href="https://github.com/varunbalaji167/iotapp"><img src="./assets/card-iot.svg" width="49%" alt="IoT Healthcare Support: real-time patient vitals over MQTT, Redis and WebSockets" /></a>
 </p>
 
